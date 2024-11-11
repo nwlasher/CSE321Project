@@ -19,11 +19,11 @@ void loop() {
       digitalWrite(leftMotorPin, LOW);
       digitalWrite(rightMotorPin, LOW);
   }else if (analogRead(rightIrPin) > TRIGGER){//Adjust direction left
-      digitalWrite(rightMotorPin, HIGH);
-      digitalWrite(leftMotorPin, LOW);
-  }else if (analogRead(leftIrPin) > TRIGGER){//Adjust direction right
-      digitalWrite(leftMotorPin, HIGH);
       digitalWrite(rightMotorPin, LOW);
+      digitalWrite(leftMotorPin, HIGH);
+  }else if (analogRead(leftIrPin) > TRIGGER){//Adjust direction right
+      digitalWrite(leftMotorPin, LOW);
+      digitalWrite(rightMotorPin, HIGH);
   }else{//Continue forward
       digitalWrite(leftMotorPin, HIGH);  
       digitalWrite(rightMotorPin, HIGH);
