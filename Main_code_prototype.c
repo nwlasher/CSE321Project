@@ -11,7 +11,8 @@ void setup() {
   //Initialize LED pins for output
   pinMode(leftMotorPin, OUTPUT);
   pinMode(rightMotorPin, OUTPUT);
-//  Serial.begin(9600);
+  //Start serial connection for sensor calibration
+  Serial.begin(9600);
 }
 
 void loop() {
@@ -31,11 +32,11 @@ void loop() {
   
 
   
-//  //Monitor state here
-//  Serial.print("Right: ");
-//  Serial.print(rightObjectProximity);
-//  Serial.print(" Left: ");
-//  Serial.print(leftObjectProximity);
-//  Serial.print("\n");
-//  delay(100);
+  //Monitor state here
+  Serial.print("Right: ");
+  Serial.print(analogRead(rightIrPin));
+  Serial.print(" Left: ");
+  Serial.print(analogRead(leftIrPin));
+  Serial.print("\n");
+  delay(100);
 }
