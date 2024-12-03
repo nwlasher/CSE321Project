@@ -16,23 +16,23 @@ Line following test proceedures and courses can be found in the project document
 Now, if you're looking to replicate this specific project instead of the many simple line-following car tutorials on youtube to avoid use of motor encoders, I've included a full hardware list with links (to the best of my ability). Thingyverse and Original model files will be included soon, as i am still working out a few details and the documentation is due before the full demo. All Final STL files will be uploaded the day of or after the demo. 
 
 >Hardware list:
-  Source: Amazon
-  -IR Sensor modules: 
-  -DC Motors:
-  -Arduino Rev3:
-  -I/O Sheild:
-  -4AA battery tray:
-  -9V battery connector lead: 
+Source: Amazon
+  * IR Sensor modules: 
+  * DC Motors:
+  * Arduino Rev3:
+  * I/O Sheild:
+  * 4AA battery tray:
+  * 9V battery connector lead: 
 
-  Source: Thingyverse, see authors at the links below for credit
-  -Chassis (2WD):
-  -Motor mounts:
-  -IR sensor mounts:
-  -Front end ball-caster bracket: Original creation, file will be added the day of the demo
+Source: Thingyverse, see authors at the links below for credit
+  * Chassis (2WD):
+  * Motor mounts:
+  * IR sensor mounts:
+  * Front end ball-caster bracket: Original creation, file will be added the day of the demo
   
   Other hardware/supplies:
-  -M3x6 screws to mount Arduino/sheild/AA battery tray to chassis : X4
-  -M3x10 screws to secure IR sensors to mounting bracket: X2
-  -M3 nuts to help secure screws used for Arduino/sheild/AA battery tray: X4
-  -prototyping jumper wires, I used the breadboard kit: [here](https://www.amazon.com/REXQualis-Electronics-tie-Points-Breadboard-Potentiometer/dp/B073ZC68QG/?_encoding=UTF8&pd_rd_w=G6JPY&content-id=amzn1.sym.25176ef5-509a-4446-bbde-9770a3f18b65%3Aamzn1.symc.abfa8731-fff2-4177-9d31-bf48857c2263&pf_rd_p=25176ef5-509a-4446-bbde-9770a3f18b65&pf_rd_r=JCBE5JS2649CFVPX5W84&pd_rd_wg=CFJf9&pd_rd_r=e47e82da-9283-4612-bf92-5b61a42f9e04&ref_=pd_hp_d_btf_ci_mcx_mr_ca_id_hp_d)
-  -3M double-stick tape or equivalent for mounting IR sensor bracket to chassis and ball-caster bearing to the corresponding bracket 
+  * M3x6 screws to mount Arduino/sheild/AA battery tray to chassis : X4
+  * M3x10 screws to secure IR sensors to mounting bracket: X2
+  * M3 nuts to help secure screws used for Arduino/sheild/AA battery tray: X4
+  * prototyping jumper wires, I used the breadboard kit: [here](https://www.amazon.com/REXQualis-Electronics-tie-Points-Breadboard-Potentiometer/dp/B073ZC68QG/?_encoding=UTF8&pd_rd_w=G6JPY&content-id=amzn1.sym.25176ef5-509a-4446-bbde-9770a3f18b65%3Aamzn1.symc.abfa8731-fff2-4177-9d31-bf48857c2263&pf_rd_p=25176ef5-509a-4446-bbde-9770a3f18b65&pf_rd_r=JCBE5JS2649CFVPX5W84&pd_rd_wg=CFJf9&pd_rd_r=e47e82da-9283-4612-bf92-5b61a42f9e04&ref_=pd_hp_d_btf_ci_mcx_mr_ca_id_hp_d)
+  * 3M double-stick tape or equivalent for mounting IR sensor bracket to chassis and ball-caster bearing to the corresponding bracket 
