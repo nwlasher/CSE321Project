@@ -17,22 +17,32 @@ Now, if you're looking to replicate this specific project instead of the many si
 
 **Hardware list:**
 * Source: Amazon
-  * IR Sensor modules: 
-  * DC Motors:
-  * Arduino Rev3:
-  * I/O Sheild:
-  * 4AA battery tray:
-  * 9V battery connector lead: 
+  * IR Sensor modules: found [here](https://www.amazon.com/Gikfun-avoidance-Reflective-Photoelectric-Intensity/dp/B07FJLMLVZ?crid=2MP0NGZESJYB7&dib=eyJ2IjoiMSJ9.raM2Y1UKY-5UVlEH5onhoROUgwLmRMTlWFu3t-YIT8v5YnczhHPG_zfTi4C8beL3GYn1ahGIIWl74H0HInrwSqSjzLAWo7gXbiswPwGLApno_GS17SQjUiSD3LlvwL4RhSKHc4eENLuXe57LU0OJgRAf48sAF6zqo5zVzHUf9lzfp8pedT1MjiYfD5zVg925zLbJzMhrxtcZALm5PqXainnXr2XCsX6VqWcdTdXltlcPNPYrK8wQpF81qb2BJJ1S2Jq4Qq5P4kaldORUO7ckCeYWAIRHCpg-6KyGYqYPJ7A.qVDg1r0O4CmZXA_1DxGzWhPixGHbFJ-12q2mYhPWOnY&dib_tag=se&keywords=IR+sensor+modules&qid=1733261672&s=industrial&sprefix=ir+sensor+modules%2Cindustrial%2C73&sr=1-6)
+  * DC Motors: found [here](https://www.amazon.com/AEDIKO-Motor-Gearbox-Shaft-200RPM/dp/B099Z85573/?_encoding=UTF8&pd_rd_w=G6JPY&content-id=amzn1.sym.25176ef5-509a-4446-bbde-9770a3f18b65%3Aamzn1.symc.abfa8731-fff2-4177-9d31-bf48857c2263&pf_rd_p=25176ef5-509a-4446-bbde-9770a3f18b65&pf_rd_r=JCBE5JS2649CFVPX5W84&pd_rd_wg=CFJf9&pd_rd_r=e47e82da-9283-4612-bf92-5b61a42f9e04&ref_=pd_hp_d_btf_ci_mcx_mr_ca_id_hp_d)
+  * Arduino Rev3: found [here](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6?crid=35JK65MSNDYTQ&dib=eyJ2IjoiMSJ9.EP1e3hJTqCDPxSPSdzKsYfMXUktq8xgEbcPrB1QpS3VhnZG5eudwvsegtvpf1bp4jRtwqyz59Jvp4YYmEdUapyby9kPDGIOiveXG-4iYJr64HuJR21thM3bzqKb6dArbrv0eaWqku3fdi9K9x-qkCQl9OBQyJ2Qg9vd5vF96cEiNWUu_MLb-hF7UtTkxXtJk2FjKmRiHcnB_uHusdU-uJwo_SCRrBY1-Rp_33OCgw4s.Stxi3UVLx8t085-7Kdys7aUrQToZq2VxJM3tChRUh5k&dib_tag=se&keywords=arduino+uno+rev3&qid=1733261613&sprefix=arduino+uno+rev3%2Caps%2C95&sr=8-1)
+  * I/O Sheild: found [here](https://www.amazon.com/HiLetgo-Prototype-Expansion-Breadboard-ProtoShield/dp/B00HHYBWPO?crid=3I7NZ6Z144KWU&dib=eyJ2IjoiMSJ9.yyECcm7xu3PpPfzlmS7RJTLA5sJbS83TNz-F6zZg9i1lS1lgiMvrQNj-cCRuvpY8ch3b9mv1G-Vog-nteQE40f3WuClulWfGhGAfz_I_l6F1O0Kjm3J08xQDy_wUzrppatJ3ajsYlZcmdKi1AZTJY-N6vqa_rGuS-ji0_8S6i1m8T6PjkYq3emlkaC_7A3L_NLLjPJNUz4yhh91lp6FSNS-jCGXxc0H9hzOoKfJN1tQ.P9763b5ejf_DlXxsbTItyhULRlpRrsAVWQw0NuLQdGo&dib_tag=se&keywords=i%2Fo+shield+arduino+uno&qid=1733261578&sprefix=i%2Fo+shield+arduino+uno%2Caps%2C87&sr=8-12)
+  * 4AA battery tray: found [here](https://www.amazon.com/LAMPVPATH-Battery-Holder-Leads-Wires/dp/B07T7MTRZX?crid=1803D7QTREO0E&dib=eyJ2IjoiMSJ9.Zz6pqEfl9XSL-KSVGcCvTGHLoBzpEza7MgDy9u93CJgn6HnSyKSSU1BU09Y3OkTea6CT18JAdIUEsrX2T8_dUa315fnNDtvhU6MyDiUcwXwZKtPCpa7HYYzuLMopGVUUFhq6Yh2bSaSdwAyeph-2HVwgrG-zaTW454-AWsku1oeVrWMvwtQgg_FqGu_GAc-99zWR0uMrKd3an5us031DAffvmIdbfYsXTBCnGvAwRmM.-dKx3S7XwYxDmqLDvyus3Or_xMDL_HceL-Ra6NQ5TGM&dib_tag=se&keywords=aa+battery+holder&qid=1733261510&sprefix=AA+battery%2Caps%2C106&sr=8-8)
+  * 9V battery connector lead: found [here](https://www.amazon.com/Battery-Connector-Plastic-Experiment-Equipment/dp/B08SL9X2YC?crid=1Q72845Z7YFAT&dib=eyJ2IjoiMSJ9.cPyl9XTIX6B9MfgCRRpDEpovk1l6bcfM9_wB6FWs1rCeLN395Nt4Afeqy2cmhuAqIfvN1sP1TD4zWiTlBMXommHSdc-7oZZv5cgMWkXo_MWXrVBU-_laZPPEmEPovtGa1RoMnLWgbYz-7nqgziirV6n_I-Rmxoow8UeV2FcncGfOVO4hKC0PYQ5CLJiVAsTqQ3BhFtkttVS4dVUnlp3936nBtMdim2QHCvDQSGk8X7ditIC2LGia7w86NB5hqH_RkKvKiBkV5hDelM0Ixk7LyTIJtDZedzttNFbZWSlSyqI.kjY_ZE2wNv_CuO2LvqeVp25Mm0RqmkH4xEDd-PoeM_g&dib_tag=se&keywords=9v+battery+connector&qid=1733261374&s=electronics&sprefix=9V+%2Celectronics%2C95&sr=1-3)
+  * Two 2N3904 NPN BJTs (kit of 100pcs): found [here](https://www.amazon.com/HiLetgo-100pcs-General-Purpose-Transistor/dp/B07X5RXSX1?crid=3PCZYU9NI8E68&dib=eyJ2IjoiMSJ9.XzT5U-iPHrrbU8cQqX-I_ZG0p8F_sA_zfpKo4r3iw-My08dMwdsXkKiYJnEWd632ZfOuZtArIerQhI9VH-vZSXe4AGsHmuKwgbZalC54bDroczL4eIXdyq1vn3v9xWgu9qXhpE7qLFiaTldJZj96Gxvvisjly7XxBPoSkApPQs24Wwe3_qlLffz-AdclmyjqTZRNxoR5MdWwy00UD34wV00XfSsWdIUTOoFwBpaKnLshGzQSNLPOua_z3YD9JNWeKl4GjYJP35L4x1hDL8Zf2hgB4Zu1Vb0CaZlojzdYCjY.fZL72fnYlY1qmmPzs9NTI5x2qGiiJfFT21yjY1DYHwA&dib_tag=se&keywords=2N3904&qid=1733263371&s=industrial&sprefix=2n3904%2Cindustrial%2C84&sr=1-8) 
 
 * Source: Thingyverse, see authors at the links below for credit
   * Chassis (2WD): found [here](https://www.thingiverse.com/thing:3949099)
   * Motor mounts: found [here](https://www.thingiverse.com/thing:750963)
-  * IR sensor mounts: 
-  * Front end ball-caster bracket: Original creation, file will be added and linked here the day of the demo!
+  * IR sensor mounts: found [here](https://www.thingiverse.com/thing:6750892)
+  * Front end ball-caster bracket: Original creation, file will be added and linked here the day of the demo! 
   
 * Other hardware/supplies:
   * M3x6 screws to mount Arduino/sheild/AA battery tray to chassis : X4
-  * M3x10 screws to secure IR sensors to mounting bracket: X2
-  * M3 nuts to help secure screws used for Arduino/sheild/AA battery tray: X4
+  * M3x10 screws to secure IR sensors to mounting bracket: X2 (no nuts needed)
+  * M3x12 screws to motor mounts to chassis: X2
+  * M3x20 screws to mount ball-caster bracket: X2
+  * M3x25 screws to secure motors to mounts: X2 
+  * M3 nuts to help secure screws used for Arduino/sheild/AA battery tray and motor/ball-caster mounts: X10
   * prototyping jumper wires, I used the breadboard kit: [here](https://www.amazon.com/REXQualis-Electronics-tie-Points-Breadboard-Potentiometer/dp/B073ZC68QG/?_encoding=UTF8&pd_rd_w=G6JPY&content-id=amzn1.sym.25176ef5-509a-4446-bbde-9770a3f18b65%3Aamzn1.symc.abfa8731-fff2-4177-9d31-bf48857c2263&pf_rd_p=25176ef5-509a-4446-bbde-9770a3f18b65&pf_rd_r=JCBE5JS2649CFVPX5W84&pd_rd_wg=CFJf9&pd_rd_r=e47e82da-9283-4612-bf92-5b61a42f9e04&ref_=pd_hp_d_btf_ci_mcx_mr_ca_id_hp_d)
-  * 3M double-stick tape or equivalent for mounting IR sensor bracket to chassis and ball-caster bearing to the corresponding bracket 
+  * 3M double-stick tape or equivalent for mounting IR sensor bracket to chassis and ball-caster bearing to the corresponding bracket
+
+**To construct the line follower:**
+  
+   Start by attaching the motor mounts to the chassis using one M3x12 screw and one M3x25 screw per motor, all fitted with nuts. Then, slot the ball-caster spacing bracket (the rectangular studs) into the slots near the front of the car and secure using two M3x20 screws and two M3 nuts. Next, mount the arduino and battery trays to the chassis using the M3x6 screws with nuts, 3 for the arduino tray and one for the battery tray. If the screw prevents the batteries from seating properly in the tray, glue it down or use some 3M double-sided tape to secure it instead. The IR sensors should be fitted to the mounting bracket at each far side with two holes remaining empty between them using M3x10 screws. No nuts are needed, but you can use longer screws and nuts if you require a stronger hold. I used more 3M tape to secure the IR sensors to the chassis, if you want to use two more M3x12 screws and melt/drill holes that works too. 
+   
+   Now that the main hardware is attached, join the arduino and sheild and place in the arduino tray. Next, construct the control circuit as pictured in "I/O Sheild control circuit configuration.png". Following that same reference image, connect the IR sensors and motors to the correct placements on the board. Finnally connect both the 9V battery, which can be secured on its side between the IR sensors and the arduino, and install the four AA batteries in the tray. Feel free to add a toggle or normal switch between the positive terminal of the 9V battery and the 5V power rail of the I/O sheild or include a resistor to drop the voltage lower than 9V if you experience issues with the board acting up. 
