@@ -15,7 +15,7 @@ Line following test proceedures and courses can be found in the project document
 
 Now, if you're looking to replicate this specific project instead of the many simple line-following car tutorials on youtube to avoid use of motor encoders, I've included a full hardware list with links (to the best of my ability). Thingyverse and Original model files will be included soon, as i am still working out a few details and the documentation is due before the full demo. All Final STL files will be uploaded the day of or after the demo. 
 
-**'Hardware list:'**
+**Hardware list:**
 * Source: Amazon
   * IR Sensor modules: 
   * DC Motors:
@@ -25,10 +25,10 @@ Now, if you're looking to replicate this specific project instead of the many si
   * 9V battery connector lead: 
 
 * Source: Thingyverse, see authors at the links below for credit
-  * Chassis (2WD):
-  * Motor mounts:
-  * IR sensor mounts:
-  * Front end ball-caster bracket: Original creation, file will be added the day of the demo
+  * Chassis (2WD): found [here](https://www.thingiverse.com/thing:3949099)
+  * Motor mounts: found [here](https://www.thingiverse.com/thing:750963)
+  * IR sensor mounts: 
+  * Front end ball-caster bracket: Original creation, file will be added and linked here the day of the demo!
   
 * Other hardware/supplies:
   * M3x6 screws to mount Arduino/sheild/AA battery tray to chassis : X4
