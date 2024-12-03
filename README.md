@@ -47,4 +47,4 @@ Now, if you're looking to replicate this specific project instead of the many si
    
    Now that the main hardware is attached, join the arduino and sheild and place in the arduino tray. Next, construct the control circuit as pictured in "I/O Sheild control circuit configuration.png". Following that same reference image, connect the IR sensors and motors to the correct placements on the board. Finnally connect both the 9V battery, which can be secured on its side between the IR sensors and the arduino, and install the four AA batteries in the tray. Feel free to add a toggle or normal switch between the positive terminal of the 9V battery and the 5V power rail of the I/O sheild or include a resistor to drop the voltage lower than 9V if you experience issues with the board acting up. Note also that a second tray of four AA batteries can be used to power the board also, I just used what I had. 
 
-   Once the cart is constructed and powered up, you can push the code contained in .ino format [here](main/Main_code_prototype)
+   Once the cart is constructed and powered up, you can push the code contained in .ino format [here](Main_code_prototype)
