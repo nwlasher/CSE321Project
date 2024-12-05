@@ -9,7 +9,7 @@ Hardware test scripts that are used to validate both hardware integrity and corr
 
 -DC Motors, This test ensures the power supply to the circuit is enough to drive the motors and that both motors are functioning with the proper response time. Both motor control signals are connected to pin 13 to see that both of the motors turn on and off along with the onboard LED of the arduino.
 
-Each of these test will have to be manually uploaded to the arduino for thorough component-wise testing, but a serial-monitoring fucntion has been added to the code to display current IR readings for both sensors to allow for quick calibration in that aspect. 
+Each of these test will have to be manually uploaded to the arduino for thorough component-wise testing, but a serial-monitoring fucntion has been added to the final code to display current IR readings for both sensors to allow for quick calibration in that aspect. 
 
 Line following test proceedures, course tiles, and Circuit configurations for pre-build hardware testing can be found in the "Project documentation report.pdf" and "Course tiles.pdf" documents.
 
